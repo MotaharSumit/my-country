@@ -1,0 +1,9 @@
+.ddd{
+    background-color: aqua;
+    padding-top: 25px;
+    border-radius: 10px;
+}
+.ddd img{
+    width: 350px;
+    height: 250px;
+}
